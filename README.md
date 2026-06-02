@@ -2,6 +2,10 @@
 
 A responsive, interactive web application that calculates user age from their Date of Birth and verifies voting eligibility based on age, citizenship, and registration status.
 
+## 🌐 Live Demo
+
+You can test the live application here: [Voting Eligibility Verifier](https://voting-eligibility-verifier.vercel.app/)
+
 ## 🚀 Features
 
 * **Precise Age Calculation:** Calculates exact age utilizing a date picker input.
@@ -23,7 +27,6 @@ A responsive, interactive web application that calculates user age from their Da
 
 ## 📸 Preview
 
-**Dark Mode**
 **Dark Mode**
 ![Dark Mode](https://github.com/user-attachments/assets/20392c03-9c65-430f-a143-d6c0c6215756)
 
